@@ -10,8 +10,7 @@ SimpleSuggest was created after desperately searching in the Google API for a pi
 [New BSD license](http://www.opensource.org/licenses/bsd-license.php)
 
 ## Todo
-* hope that, one day, Google releases an API for their spellchecker
-* create a better documentation
+* hope that, one day, Google releases an API for their spellchecker (yes, this lib is some kind of protest)
 * error handling can, and should, be improved
 * test, test, test
 
